@@ -1,0 +1,12 @@
+:root {
+    --animation-color:#626262 ;
+    --dark-gray:#B4AD9E ;
+    --bg-color:#03A9F4 ;
+    --light-gray: ;
+    --nav-color: ;
+} 
+
+/*  */
+nav{
+    color: var(--animation-color);
+}
